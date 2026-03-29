@@ -26,6 +26,7 @@ Impact of discounts on product sales
 Category-wise and product-wise performance analysis
 Identification of top-selling products and trends
 Analysis of purchase patterns across channels and demographics
+
 📈 Key Insights
 Discounts significantly influence purchase decisions for certain product categories
 Specific products show higher repeat purchase behavior
