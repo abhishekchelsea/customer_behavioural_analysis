@@ -20,7 +20,9 @@ Python: Pandas, NumPy
 SQL: Data Cleaning, Joins, Aggregations, Window Functions
 Visualization: Power BI
 Database: SQL Server / MySQL
+
 📌 Key Analysis Performed
+
 Customer segmentation based on purchasing behavior
 Impact of discounts on product sales
 Category-wise and product-wise performance analysis
@@ -28,6 +30,7 @@ Identification of top-selling products and trends
 Analysis of purchase patterns across channels and demographics
 
 📈 Key Insights
+
 Discounts significantly influence purchase decisions for certain product categories
 Specific products show higher repeat purchase behavior
 Customer preferences vary across demographics and channels
